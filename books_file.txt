@@ -1,0 +1,20 @@
+A Study of History,119,history
+The Guns of August,145,history
+Plagues and Peoples,456,history
+What Is History?,256,history
+The Contours of American History,521,history
+Smoked Everything,765,cooking
+The Dude Guide to BBQ,735,cooking
+Slow and Tangy,874,cooking
+Ribs and Brisket and Everything Else,1134,cooking
+Rockstar BBQ,367,cooking
+The Premium Pizza Guide,786,cooking
+Levels of the Gam,456,sport
+Heaven is a Playground,104,sport
+The Breaks of the Game,199,sport
+The Summer Game,904,sport
+The Long Season,762,sport
+The City Game,256,sport
+Abstract Algebra,683,math
+Calculus Made Easy,245,math
+Calculus,149,math

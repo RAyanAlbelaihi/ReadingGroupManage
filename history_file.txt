@@ -1,0 +1,155 @@
+rayan,A Study of History,group:A,November
+rayan,The Guns of August,group:A,November
+rayan,Calculus Made Easy,group:A,November
+rayan,Rockstar BBQ,group:A,November
+rayan,The Long Season,group:A,November
+ali,A Study of History,group:A,November
+ali,The Guns of August,group:A,November
+ali,Calculus Made Easy,group:A,November
+ali,The Long Season,group:A,November
+ali,The Summer Game,group:A,November
+khaled,The Guns of August,group:A,March
+khaled,A Study of History,group:A,March
+khaled,The Long Season,group:A,March
+khaled,Rockstar BBQ Made Easy,group:A,March
+khaled,Heaven is a Playground,group:A,March
+omar,The Guns of August,group:A,March
+omar,A Study of History,group:A,March
+omar,The Long Season,group:A,March
+omar,Calculus Made Easy,group:A,March
+omar,The Premium Pizza Guide,group:A,March
+hmad,Calculus Made Easy,group:A,March
+hmad,The Premium Pizza Guide,group:A,March
+hmad,The Guns of August,group:A,March
+hmad,Rockstar BBQ,group:A,March
+hmad,Levels of the Gam,group:A,March
+yasin,Levels of the Gam,group:A,March
+yasin,The Guns of August,group:A,March
+yasin,Calculus Made Easy,group:A,March
+yasin,Calculus,group:A,March
+yasin,A Study of History,group:A,March
+mo,Rockstar BBQ,group:A,March
+mo,Levels of the Gam,group:A,March
+mo,The Guns of August,group:A,March
+mo,Calculus,group:A,March
+mo,Rockstar BBQ,group:A,March
+abdul,Levels of the Gam,group:A,March
+abdul,Calculus Made Easy,group:A,March
+abdul,Calculus,group:A,March
+abdul,Rockstar BBQ,group:A,March
+abdul,The Guns of August,group:A,March
+ans,Ribs and Brisket and Everything Else,group:A,November
+ans,Calculus,group:A,November
+ans,Heaven is a Playground,group:A,November
+ans,The Dude Guide to BBQ,group:A,November
+ans,The Guns of August,group:A,November
+aziz,The Dude Guide to BBQ,group:A,November
+aziz,Calculus,group:A,November
+aziz,Rockstar BBQ,group:A,November
+aziz,Ribs and Brisket and Everything Else,group:A,November
+aziz,The Guns of August,group:A,November
+sami,Slow and Tangy,group:A,November
+sami,Calculus,group:A,November
+sami,Abstract Algebra,group:A,November
+sami,Rockstar BBQ,group:A,November
+sami,The Guns of August,group:B,November
+yaser,The Breaks of the Game,group:B,November
+yaser,Ribs and Brisket and Everything Else,group:B,November
+yaser,Calculus,group:B,November
+yaser,The City Game,group:B,November
+yaser,The Dude Guide to BBQ,group:B,November
+fahd,The Breaks of the Game,group:B,November
+fahd,Calculus,group:B,November
+fahd,Heaven is a Playground,group:B,November
+fahd,The Contours of American History,group:B,November
+fahd,The Guns of August,group:B,November
+faisl,The Breaks of the Game,group:B,November
+faisl,Calculus,group:B,November
+faisl,The Long Season,group:B,November
+faisl,Calculus Made Easy,group:B,November
+faisl,The Guns of August,group:B,November
+salah,Slow and Tangy,group:B,November
+salah,The Guns of August,group:B,November
+salah,The Summer Game,group:B,November
+salah,Calculus,group:B,November
+salah,Heaven is a Playground,group:B,November
+ahmad,The Summer Game,group:B,November
+ahmad,The Guns of August,group:B,November
+ahmad,Smoked Everything,group:B,November
+ahmad,A Study of History,group:B,November
+ahmad,Slow and Tangy,group:B,November
+jon,Rockstar BBQ,group:B,November
+jon,A Study of History,group:B,November
+jon,Ribs and Brisket and Everything Else,group:B,November
+jon,Calculus,group:B,November
+kim,Heaven is a Playground,group:B,November
+kim,The Summer Game,group:B,November
+kim,A Study of History,group:B,November
+kim,Calculus,group:B,November
+kim,The Long Season,group:B,November
+leo,A Study of History,group:B,November
+leo,Calculus,group:B,November
+leo,The Summer Game,group:B,November
+leo,The Premium Pizza Guide,group:B,November
+leo,Ribs and Brisket and Everything Else,group:B,November
+sergio,Levels of the Gam,group:B,November
+sergio,Rockstar BBQ,group:B,November
+sergio,A Study of History,group:B,November
+sergio,Heaven is a Playground,group:B,November
+sergio,The Premium Pizza Guide,group:B,November
+yasin,A Study of History,group:C,November
+yasin,The Summer Game,group:C,November
+yasin,Rockstar BBQ,group:C,November
+yasin,Calculus,group:C,November
+yasin,The Breaks of the Game,group:C,November
+moh,Levels of the Gam,group:C,November
+moh,The Summer Game,group:C,November
+moh,Calculus,group:C,November
+moh,Rockstar BBQ,group:C,November
+moh,The Breaks of the Game,group:C,November
+abdul,Smoked Everything,group:C,November
+abdul,A Study of History,group:C,November
+abdul,Calculus,group:C,November
+abdul,The Summer Game,group:C,November
+abdul,Levels of the Gam,group:C,November
+ans,Abstract Algebra,group:C,November 9999999999999999
+ans,The Contours of American History,group:C,November
+ans,The Summer Game,group:C,November
+ans,The Breaks of the Game,group:C,November
+ans,Smoked Everything,group:C,November
+aziz,The Summer Game,group:C,November
+aziz,The Dude Guide to BBQ,group:C,November
+aziz,The Breaks of the Game,group:C,November
+aziz,The Guns of August,group:C,November
+aziz,Slow and Tangy,group:C,November
+sami,The Summer Game,group:C,November
+sami,Slow and Tangy,group:C,November
+sami,The Breaks of the Game,group:C,November
+sami,A Study of History,group:C,November
+sami,Ribs and Brisket and Everything Else,group:C,November
+yaser,Calculus,group:C,November
+yaser,The Summer Game,group:C,November
+yaser,The Guns of August,group:C,November
+yaser,The Premium Pizza Guide,group:C,November
+yaser,Heaven is a Playground,group:C,November
+fahd,The Summer Game,group:C,November
+fahd,Calculus,group:C,November
+fahd,Heaven is a Playground,group:C,November
+fahd,The Guns of August,group:C,November
+fahd,The Premium Pizza Guide,group:C,November
+faisl,The Long Season,group:C,November
+faisl,Heaven is a Playground,group:C,November
+faisl,Calculus,group:C,November
+faisl,The Guns of August,group:C,November
+faisl,The Summer Game,group:C,November
+salah,The Breaks of the Game,group:C,November
+salah,The Summer Game,group:C,November
+salah,Calculus,group:C,November
+salah,The Long Season,group:C,November
+salah,The Guns of August,group:C,November
+hmad,The Summer Game,group:C,November
+hmad,The Long Season,group:C,November
+hmad,A Study of History,group:C,November
+hmad,Calculus,group:C,November
+hmad,The Guns of August,group:C,November
+a,a,group:a,November
